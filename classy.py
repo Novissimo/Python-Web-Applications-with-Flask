@@ -5,7 +5,7 @@ class Math:
         print("addition: ", num1 + num2)
 
     def multiply(self, num1, num2):
-        print("multiplication")
+        print("multiplication", num1 * num2)
 
         #create an instance of the class Math
         #see properties and methods
